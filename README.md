@@ -1,8 +1,8 @@
 # Libreria - Ricerca di Libri
-# Libreria è una web app creata per facilitare la ricerca di libri tramite il titolo 
-# o l'autore. Utilizzando l'API di OpenLibrary, l'app consente agli utenti di 
-# ottenere informazioni dettagliate sui libri, come titolo, autore e 
-# descrizione.
+ Libreria è una web app creata per facilitare la ricerca di libri tramite il titolo 
+ o l'autore. Utilizzando l'API di OpenLibrary, l'app consente agli utenti di 
+ ottenere informazioni dettagliate sui libri, come titolo, autore e 
+ descrizione.
 
 # Funzionalità Principali:
 
